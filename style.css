@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url("https://www.astonmartin.com/-/media/models---amr25/heros/amr25_hero_desktop.jpg?mw=1920&rev=1dc4bd480a3d49fd92e45f025b68f624&extension=webp&hash=673364FA515C7C1999282F22BF897605");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: top;
+}
